@@ -1,0 +1,20 @@
+.eyecarecentre{
+    margin: 30px 0;
+    overflow: hidden;
+}
+.buycontact {
+    margin: 30px 0;
+}
+
+.col_4 {
+    width: 33.33%;
+    float: left;
+    clear: right;
+}
+.card{
+    padding: 20px;
+    background: #eee;
+    color: #000;
+    border-radius: 10px;
+    margin: 10px;
+}

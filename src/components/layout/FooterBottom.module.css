@@ -1,0 +1,51 @@
+.footer_bottom {
+    width: 100%;
+    position: absolute;
+    /* margin-left: -50vw;
+    left: 50%; */
+    background: #f7f7f9;
+    padding: 40px 0;
+    left: 0;
+}
+
+.container_inner {
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.footer_sec_one {
+    padding-bottom: 40px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+
+.footer_sec_two {
+    padding-bottom: 40px;
+    overflow: hidden;
+}
+.list_payment {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.list_payment li {
+    display: inline-block;
+    margin: 3px 5px;
+    padding: 3px 5px;
+}
+
+.list_payment li img {
+    width: 42px;;
+}
+
+.col_4 {
+    width: 25%;
+    float: left;
+    clear: right;
+}
+
+.footer_logo {
+    width: 230px;
+    margin-top: 15px;
+}

@@ -1,0 +1,28 @@
+.top_search {
+    width: 45%;
+    float: left;
+    text-align: right;
+}
+
+.top_search input {
+    width: 230px;
+    border: 1px solid #ccc;
+    line-height: 40px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-left: 10px;
+}
+
+.top_search button {
+    background-color: #000f42;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    top: 8px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.top_search button img {
+    width: 100%;
+    height: auto;
+}

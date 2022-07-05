@@ -1,0 +1,29 @@
+.topbar{
+    padding: 10px 0;
+    background: #fff;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width: 40%;
+}
+.logo img {
+    width: 300px;
+}
+.top_contact {
+    float: left;
+    width: 15%;
+    text-align: right;
+    height: 53px;
+    font-weight: bold;
+    clear: right;
+}
+.top_contact img {
+    padding-right: 10px;
+    width: 25px !important;
+    height: 25px !important;
+}
+.top_contact span {
+    display: block;
+    padding-top: 15px;
+}

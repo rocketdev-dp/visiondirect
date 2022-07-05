@@ -1,0 +1,30 @@
+.row {
+    /* width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%; */
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 140px;
+    background: #f8fdfe;
+    padding: 10px 0;
+}
+
+.container_inner {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.col_4 {
+    width: 25%;
+    float: left;
+    clear: right;
+}
+
+.col_4 h4 {
+    color: #000;
+    display: inline;
+}
+
