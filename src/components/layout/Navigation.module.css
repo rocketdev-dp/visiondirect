@@ -71,3 +71,11 @@
     font-weight: bold;
     color: #000f42;
 }
+.cartbutton img{
+    top: 2px;
+    position: relative;
+
+}
+.cartbutton span{
+    
+}

@@ -7,45 +7,45 @@ const ProductsSidebar = () => {
       <div className={classes.filter}>
         <h4>Shop by Brands</h4>
         <ul className={classes.filter_list}>
-          <li>Acuvue</li>
-          <li>Air Optix</li>
-          <li>Biofinity</li>
-          <li>Clariti</li>
-          <li>everclear</li>
-          <li>Dailies</li>
-          <li>Freshlook</li>
+          <li><a href="#">Acuvue</a></li>
+          <li><a href="#">Air Optix</a></li>
+          <li><a href="#">Biofinity</a></li>
+          <li><a href="#">Clariti</a></li>
+          <li><a href="#">everclear</a></li>
+          <li><a href="#">Dailies</a></li>
+          <li><a href="#">Freshlook</a></li>
         </ul>
       </div>
       <div className={classes.filter}>
         <h4>Optician Equivalents</h4>
         <ul className={classes.filter_list}>
-          <li>Boots</li>
-          <li>Daysoft</li>
-          <li>Hubble</li>
-          <li>Specsavers | easyvision</li>
-          <li>Vision Express</li>
-          <li>Waldo</li>
+          <li><a href="#">Boots</a></li>
+          <li><a href="#">Daysoft</a></li>
+          <li><a href="#">Hubble</a></li>
+          <li><a href="#">Specsavers | easyvision</a></li>
+          <li><a href="#">Vision Express</a></li>
+          <li><a href="#">Waldo</a></li>
         </ul>
       </div>
       <div className={classes.filter}>
         <h4>Shop by Type</h4>
         <ul className={classes.filter_list}>
-          <li>Contact Lenses</li>
-          <li>Torics for Astigmatism</li>
-          <li>Coloured Contact Lenses</li>
-          <li>Multifocal Contact Lenses</li>
-          <li>Silicone Hydrogel Lenses</li>
-          <li>Contact Lens Solutions</li>
-          <li>Eye Drops</li>
+          <li><a href="#">Contact Lenses</a></li>
+          <li><a href="#">Torics for Astigmatism</a></li>
+          <li><a href="#">Coloured Contact Lenses</a></li>
+          <li><a href="#">Multifocal Contact Lenses</a></li>
+          <li><a href="#">Silicone Hydrogel Lenses</a></li>
+          <li><a href="#">Contact Lens Solutions</a></li>
+          <li><a href="#">Eye Drops</a></li>
         </ul>
       </div>
       <div className={classes.filter}>
         <h4>Shop by Wear</h4>
         <ul className={classes.filter_list}>
-          <li>Daily Lenses</li>
-          <li>Monthly Lenses</li>
-          <li>Two Weekly Lenses</li>
-          <li>Extended Wear Lenses</li>
+          <li><a href="#">Daily Lenses</a></li>
+          <li><a href="#">Monthly Lenses</a></li>
+          <li><a href="#">Two Weekly Lenses</a></li>
+          <li><a href="#">Extended Wear Lenses</a></li>
         </ul>
       </div>
     </div>

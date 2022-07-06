@@ -27,3 +27,9 @@
     display: block;
     padding-top: 15px;
 }
+@media only screen and (max-width: 414px){ 
+    .top_contact{
+        display: none !important;
+    }
+    
+    }

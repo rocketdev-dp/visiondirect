@@ -1,5 +1,7 @@
 import React from "react";
+
 import classes from "./Statistic.module.css";
+
 import Bowel from "../../assets/images/free-replacement-lenses.png";
 import Garantee from "../../assets/images/100-day-guarantee.png";
 import Delivery from "../../assets/images/next-day-delivery.png";

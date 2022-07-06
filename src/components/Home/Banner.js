@@ -7,7 +7,7 @@ const Banner = () => {
             <div className={classes.content}>
                 <h3>DISCOVER NEW <br />EVERCLEAR ACTIVE</h3>
                 <p>Daily lenses for active lifestyles</p>
-                <button>Learn more</button>
+                <button onclick="javascript:void(0)">Learn more</button>
             </div>
         </div>
     );
